@@ -6,7 +6,9 @@ October 3, 2002, in Bekasi. I graduated from Telkom University with a GPA of 3.3
 strong interest and experience in hardware technology and programming, as well as in the
 development of Internet of Things, Artificial Intelligence, and Machine Learning.
 
-- 📫 How to reach me: rifqi.izza7c@gmail.com
+- Link To my [CV](https://www.canva.com/design/DAHEMJSbsDU/OVv_0KNDAf1WAPfyk_F5mw/edit?utm_content=DAHEMJSbsDU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Link To my [Portofolio](https://www.canva.com/design/DAG6puq4wsc/jdkPEKa9rDQc-mxaUzSjSQ/edit?utm_content=DAG6puq4wsc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+-  How to reach me: rifqi.izza7c@gmail.com
 
 ## Education:
 
