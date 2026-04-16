@@ -17,7 +17,7 @@ development of Internet of Things, Artificial Intelligence, and Machine Learning
    - Research Assistant of Image Processing and Vision Labroratory
    - Department staff of BPH KMTE
 ## Work Experience:
-#### 1. [PT. Epcon](https://epcon.co.id) | Internship | Jakarta `April 2024 - August 2024`
+#### 1. [PT. Epcon](https://epcon.co.id) | Internship | Jakarta `April - August 2024`
    - Data Collection and Analysis: Collect relevant data on smart home devices, including pricing, user feedback, and technical details, and evaluate their performance.
    - Comparative Research: Analyze and compare the features and specifications of smart home products available in the Indonesian market.
    - Report and Discussion: Prepare a report and a brief presentation summarizing the research findings, highlighting key insights and recommendations.
